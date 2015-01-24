@@ -23,6 +23,4 @@ exclude:
 - Gemfile.lock
 - Gruntfile.coffee
 - readme.md
-assets:
-  js_compressor:  uglifier
-  css_compressor: sass
+- scss

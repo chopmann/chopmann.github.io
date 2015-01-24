@@ -8,6 +8,9 @@
   "description": "Super Awesome Site",
   "license": "MIT",
   "private": true,
+  "dependencies": {
+    "foundation": "zurb/bower-foundation"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
